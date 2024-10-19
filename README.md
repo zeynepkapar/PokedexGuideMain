@@ -10,4 +10,7 @@ Bu projede, Pokémon dünyasını keşfetmek isteyenlere yardımcı olan interak
 - İstatistikler: Her Pokémon için kilogram (kg), deneyim (exp) gibi istatistikleri görüntüleyerek daha fazla bilgi edinme imkanı sunuyor.
 
 Projem, API kullanarak Pokémon verilerini dinamik bir şekilde çekiyor ve kullanıcı dostu bir arayüzle bu verileri sunuyor.
-# PokedexGuideMain
+
+# Gif
+
+![Zight Recording 2024-10-19 at 07 19 02 PM](https://github.com/user-attachments/assets/4a4e9158-106b-47a3-aed3-f88c512d57fc)
